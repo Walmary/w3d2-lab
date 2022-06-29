@@ -1,11 +1,10 @@
 import React from "react";
+import Giphy from "./Giphy";
 
 const App = () => {
     return(
         <div>
-            <h1>giphy              
-            </h1>
-
+            <Giphy/>
         </div>
     );
 
